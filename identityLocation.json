@@ -1,0 +1,3524 @@
+{
+  "identityDocumentLocationTypes": [
+    {
+      "country": {
+        "code": "ZZZ",
+        "name": "UNKNOWN"
+      },
+      "name": "COMPANY REGISTRATION NUMBER",
+      "type": "UNK-CRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "QQQ",
+        "name": "INTERNATIONAL"
+      },
+      "name": "BITCOIN ADDRESS",
+      "type": "INT-XBT",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "PAK",
+        "name": "PAKISTAN"
+      },
+      "name": "COMPANY REGISTRATION NUMBER",
+      "type": "PK-CRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "ARE",
+        "name": "UNITED ARAB EMIRATES"
+      },
+      "name": "TRADE LICENSE NUMBER",
+      "type": "AE-TLN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "KAZ",
+        "name": "KAZAKHSTAN"
+      },
+      "name": "OBSHCHIY KLASIFIKATOR PREDPRIYATIY I ORGANISATSIY - GENERAL CLASSIFIER OF ENTERPRISES AND ORGANIZATIONS",
+      "type": "KZ-OKPO",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "CYP",
+        "name": "CYPRUS"
+      },
+      "name": "IDENTIFICATION NUMBER",
+      "type": "CY-ID",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "ROU",
+        "name": "ROMANIA"
+      },
+      "name": "NUMAR DE INMATRICULARE - COMPANY REGISTRATION NUMBER",
+      "type": "RO-CRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "BRB",
+        "name": "BARBADOS"
+      },
+      "name": "COMPANY REGISTRATION NUMBER",
+      "type": "BB-CRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "MKD",
+        "name": "NORTH MACEDONIA"
+      },
+      "name": "EDINSTVEN MATICEN BROJ NA SUBJEKTOT - COMPANY REGISTRATION NUMBER",
+      "type": "MK-EMBS",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "MYS",
+        "name": "MALAYSIA"
+      },
+      "name": "GOODS AND SERVICES TAX NUMBER",
+      "type": "MY-GST",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "CAF",
+        "name": "CENTRAL AFRICAN REPUBLIC"
+      },
+      "name": "BANK IDENTIFICATION CODE",
+      "type": "CF-BIC",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "IRN",
+        "name": "IRAN, ISLAMIC REPUBLIC OF"
+      },
+      "name": "COMPANY REGISTRATION NUMBER",
+      "type": "IR-CRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "QQQ",
+        "name": "INTERNATIONAL"
+      },
+      "name": "INTERNATIONAL CIVIL AVIATION ORGANIZATION",
+      "type": "INT-ICAO",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "CPV",
+        "name": "CAPE VERDE"
+      },
+      "name": "NUMERO DE IDENTIFICACAO FISCAL - TAX IDENTIFICATION NUMBER",
+      "type": "CV-NIF",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "ARM",
+        "name": "ARMENIA"
+      },
+      "name": "UCHETNYY NOMER NALOGOPLATELSHCHIKA - TAXPAYER'S REGISTRATION NUMBER",
+      "type": "AM-UNN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "DJI",
+        "name": "DJIBOUTI"
+      },
+      "name": "IMMATRICULATION CAISSE NATIONALE DE SECURITE SOCIALE - NATIONAL SOCIAL SECURITY FUND REGISTRATION NUMBER",
+      "type": "DJ-ICNSS",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "KOR",
+        "name": "KOREA, REPUBLIC OF"
+      },
+      "name": "CORPORATION REGISTER NUMBER",
+      "type": "KR-CRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "NZL",
+        "name": "NEW ZEALAND"
+      },
+      "name": "COMPANIES OFFICE - COMPANY NUMBER",
+      "type": "NZ-CO",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "MAR",
+        "name": "MOROCCO"
+      },
+      "name": "SOCIAL SECURITY NO",
+      "type": "MA-CNSS",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "UZB",
+        "name": "UZBEKISTAN"
+      },
+      "name": "TAXPAYERS IDENTIFICATION NUMBER",
+      "type": "UZ-INN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "SWE",
+        "name": "SWEDEN"
+      },
+      "name": "ORGANISATIONSNUMMER - COMPANY REGISTRATION NUMBER",
+      "type": "SE-ORGNR",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "AUT",
+        "name": "AUSTRIA"
+      },
+      "name": "FIRMENBUCHNUMMER - COMPANY REGISTRATION NUMBER",
+      "type": "AT-FN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "MDV",
+        "name": "MALDIVES"
+      },
+      "name": "COMPANY REGISTRATION NUMBER",
+      "type": "MV-CRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "BRA",
+        "name": "BRAZIL"
+      },
+      "name": "CADASTRO DE PESSOAS FISICAS - NATIONAL TAX NUMBER",
+      "type": "BR-CPF",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "VNM",
+        "name": "VIET NAM"
+      },
+      "name": "STATE SECURITIES COMMISSION OF VIETNAM REGISTRATION NUMBER",
+      "type": "VN-UBCK",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "JAM",
+        "name": "JAMAICA"
+      },
+      "name": "COMPANY REGISTRATION NUMBER",
+      "type": "JM-CRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "QQQ",
+        "name": "INTERNATIONAL"
+      },
+      "name": "DOGECOIN ADDRESS",
+      "type": "INT-DOGE",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "ZZZ",
+        "name": "UNKNOWN"
+      },
+      "name": "TAX NUMBER",
+      "type": "UNK-TAX",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "QQQ",
+        "name": "INTERNATIONAL"
+      },
+      "name": "MANUFACTURERS SERIAL NUMBER",
+      "type": "INT-MSN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "CIV",
+        "name": "CÔTE D'IVOIRE"
+      },
+      "name": "REGISTRATION NO",
+      "type": "CI-RCCM",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "QQQ",
+        "name": "INTERNATIONAL"
+      },
+      "name": "XRP ADDRESS",
+      "type": "INT-XRP",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "JPN",
+        "name": "JAPAN"
+      },
+      "name": "CORPORATE REGISTRATION NUMBER",
+      "type": "JP-CRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "LBR",
+        "name": "LIBERIA"
+      },
+      "name": "COMPANY REGISTER NUMBER",
+      "type": "LR-CRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "SGP",
+        "name": "SINGAPORE"
+      },
+      "name": "BUSINESS REGISTRATION NUMBER",
+      "type": "SG-BRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "MCO",
+        "name": "MONACO"
+      },
+      "name": "REGISTRATION NO",
+      "type": "MC-RCI",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "FRA",
+        "name": "FRANCE"
+      },
+      "name": "REGISTRE DU COMMERCE ET DES SOCIETES - REGISTER OF COMMERCE AND COMPANIES",
+      "type": "FR-RCS",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "IND",
+        "name": "INDIA"
+      },
+      "name": "PERMANENT ACCOUNT NUMBER  (INCOME TAX INDIA)",
+      "type": "IN-PAN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "SLV",
+        "name": "EL SALVADOR"
+      },
+      "name": "NUMERO DE IDENTIFICACION TRIBUTARIA - TAX IDENTIFICATION NUMBER",
+      "type": "SV-NIT",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "PNG",
+        "name": "PAPUA NEW GUINEA"
+      },
+      "name": "COMPANY NUMBER",
+      "type": "PG-CN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "MKD",
+        "name": "NORTH MACEDONIA"
+      },
+      "name": "TAX IDENTIFICATION NUMBER",
+      "type": "MK-TIN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "NLD",
+        "name": "NETHERLANDS"
+      },
+      "name": "COMPANY REGISTRATION IDENTIFICATION NUMBER",
+      "type": "NL-CRIN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "IMN",
+        "name": "ISLE OF MAN"
+      },
+      "name": "COMPANY REGISTRATION NUMBER",
+      "type": "IM-CRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "LKA",
+        "name": "SRI LANKA"
+      },
+      "name": "TAXPAYER'S IDENTIFICATION NUMBER",
+      "type": "LK-TIN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "CHN",
+        "name": "CHINA"
+      },
+      "name": "CHINA TAX IDENTIFICATION NUMBER",
+      "type": "CN-TIN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "EST",
+        "name": "ESTONIA"
+      },
+      "name": "ARIREGISTRI KOOD - REGISTRY CODE",
+      "type": "EE-AK",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "SEN",
+        "name": "SENEGAL"
+      },
+      "name": "COMPANY REGISTRATION NO",
+      "type": "SN-RCCM",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "KAZ",
+        "name": "KAZAKHSTAN"
+      },
+      "name": "BUSINESS IDENTIFICATION NUMBER",
+      "type": "KZ-BIN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "USA",
+        "name": "UNITED STATES"
+      },
+      "name": "TAX ID NUMBER",
+      "type": "US-TIN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "MYS",
+        "name": "MALAYSIA"
+      },
+      "name": "SALES AND SERVICES TAX NUMBER",
+      "type": "MY-SST",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "HRV",
+        "name": "CROATIA"
+      },
+      "name": "MATICNI BROJ SUBJEKTA - COMPANY REGISTRATION NUMBER",
+      "type": "HR-MBS",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "BRN",
+        "name": "BRUNEI DARUSSALAM"
+      },
+      "name": "BUSINESS REGISTRATION NUMBER",
+      "type": "BN-BRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "CAN",
+        "name": "CANADA"
+      },
+      "name": "LE NUMERO D'ENTERPRISE DU QUEBEC - BUSINESS NUMBER OF QUEBEC",
+      "type": "CA-NEQ",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "IND",
+        "name": "INDIA"
+      },
+      "name": "HINDU UNDIVIDED FAMILY - INCOME TAX NUMBER",
+      "type": "IN-HUF",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "QQQ",
+        "name": "INTERNATIONAL"
+      },
+      "name": "VERGE ADDRESS",
+      "type": "INT-XVG",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "LIE",
+        "name": "LIECHTENSTEIN"
+      },
+      "name": "HANDELSREGISTERNUMMER - COMPANY REGISTRATION NUMBER",
+      "type": "LI-HR",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "GIB",
+        "name": "GIBRALTAR"
+      },
+      "name": "COMPANY NUMBER (INCORPORATION NO)",
+      "type": "GI-CN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "VUT",
+        "name": "VANUATU"
+      },
+      "name": "COMPANY REGISTRATION NUMBER",
+      "type": "VU-CRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "NGA",
+        "name": "NIGERIA"
+      },
+      "name": "REGISTRATION NO",
+      "type": "NG-RC",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "POL",
+        "name": "POLAND"
+      },
+      "name": "REJESTR GOSPODARKI NARODOWEJ - NATIONAL OFFICIAL BUSINESS REGISTER NUMBER",
+      "type": "PL-REGON",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "QQQ",
+        "name": "INTERNATIONAL"
+      },
+      "name": "STOCK EXCHANGE DAILY OFFICIAL LIST",
+      "type": "INT-SEDOL",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "BDI",
+        "name": "BURUNDI"
+      },
+      "name": "COMPANY REGISTRATION NUMBER",
+      "type": "BI-RC",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "SLB",
+        "name": "SOLOMON ISLANDS"
+      },
+      "name": "COMPANY NUMBER",
+      "type": "SB-CN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "MCO",
+        "name": "MONACO"
+      },
+      "name": "NOMENCLATURE DES ACTIVITES FRANCAISES - REGISTRATION NUMBER",
+      "type": "MC-NAF",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "QQQ",
+        "name": "INTERNATIONAL"
+      },
+      "name": "SIACOIN ADDRESS",
+      "type": "INT-SC",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "ITA",
+        "name": "ITALY"
+      },
+      "name": "PARTITA IVA - VAT NUMBER-TAX REGISTRATION NUMBER",
+      "type": "IT-PIVA",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "PAN",
+        "name": "PANAMA"
+      },
+      "name": "MERCANTILE REGISTRY FILE NUMBER",
+      "type": "PA-FICHA",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "FIN",
+        "name": "FINLAND"
+      },
+      "name": "VALUE ADDED TAX",
+      "type": "FI-VAT",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "AUS",
+        "name": "AUSTRALIA"
+      },
+      "name": "AUSTRALIAN FINANCIAL SERVICES LICENSE NUMBER",
+      "type": "AU-AFSL",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "MYS",
+        "name": "MALAYSIA"
+      },
+      "name": "COMPANY REGISTRATION NUMBER",
+      "type": "MY-CRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "MNG",
+        "name": "MONGOLIA"
+      },
+      "name": "COMPANY REGISTRATION NUMBER",
+      "type": "MN-CRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "SVK",
+        "name": "SLOVAKIA"
+      },
+      "name": "IDENTIFIKACNE CISLO ORGANIZACIE - ORGANISATION IDENTIFICATION NUMBER",
+      "type": "SK-ICO",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "TUR",
+        "name": "TURKEY"
+      },
+      "name": "CENTRAL REGISTRY SYSTEM",
+      "type": "TR-CRSN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "GRC",
+        "name": "GREECE"
+      },
+      "name": "ARITHMOS MITRO-OU - REGISTRATION NUMBER",
+      "type": "GR-AM",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "QQQ",
+        "name": "INTERNATIONAL"
+      },
+      "name": "INTERNATIONAL SECURITY IDENTIFICATION NUMBER",
+      "type": "INT-ISIN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "LTU",
+        "name": "LITHUANIA"
+      },
+      "name": "REGISTRACIJOS NUMERIS - REGISTRATION NUMBER",
+      "type": "LT-RN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "LTU",
+        "name": "LITHUANIA"
+      },
+      "name": "PVM KODAS - VAT NUMBER",
+      "type": "LT-LTPVM",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "MNE",
+        "name": "MONTENEGRO"
+      },
+      "name": "MATICNI BROJ - COMPANY REGISTRATION NUMBER",
+      "type": "ME-MB",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "SWZ",
+        "name": "ESWATINI"
+      },
+      "name": "COMPANY TAX NUMBER",
+      "type": "SZ-CTN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "SVN",
+        "name": "SLOVENIA"
+      },
+      "name": "MATICNA STEVILKA - COMPANY REGISTRATION NUMBER",
+      "type": "SI-MS",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "GTM",
+        "name": "GUATEMALA"
+      },
+      "name": "TAX NUMBER",
+      "type": "GT-NIT",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "AUT",
+        "name": "AUSTRIA"
+      },
+      "name": "ZENTRALES VEREINSREGISTER - CENTRAL ASSOCIATIONS REGISTER NUMBER",
+      "type": "AT-ZVR",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "BTN",
+        "name": "BHUTAN"
+      },
+      "name": "NUMERO DE IDENTIFICACION TRIBUTARIA - TAX IDENTIFICATION NUMBER",
+      "type": "BT-NIT",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "URY",
+        "name": "URUGUAY"
+      },
+      "name": "REGISTRO UNICO DE CONTRIBUYENTES - UNIQUE TAXPAYER REGISTER",
+      "type": "UY-RUC",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "CHL",
+        "name": "CHILE"
+      },
+      "name": "ROL UNICO NACIONAL - NATIONAL ID NUMBER",
+      "type": "CL-RUN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "CZE",
+        "name": "CZECH REPUBLIC"
+      },
+      "name": "IDENTIFIKACNI CISLO - IDENTIFICATION NUMBER",
+      "type": "CZ-IC",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "ZZZ",
+        "name": "UNKNOWN"
+      },
+      "name": "VAT NUMBER",
+      "type": "UNK-VAT",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "JOR",
+        "name": "JORDAN"
+      },
+      "name": "COMPANY REGISTER NUMBER",
+      "type": "JO-CRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "QQQ",
+        "name": "INTERNATIONAL"
+      },
+      "name": "LEGAL ENTITY IDENTIFIER",
+      "type": "INT-LEI",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "ECU",
+        "name": "ECUADOR"
+      },
+      "name": "REGISTRO UNICO DE CONTRIBUYENTES - UNIQUE TAX REGISTRY",
+      "type": "EC-RUC",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "PRT",
+        "name": "PORTUGAL"
+      },
+      "name": "NUMERO DE IDENTIFICACAO FISCAL - TAX IDENTIFICATION NUMBER",
+      "type": "PT-NIF",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "BHR",
+        "name": "BAHRAIN"
+      },
+      "name": "COMMERCIAL REGISTRATION NUMBER",
+      "type": "BH-CR",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "BGD",
+        "name": "BANGLADESH"
+      },
+      "name": "TAXPAYER'S IDENTIFICATION NUMBER",
+      "type": "BD-TIN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "MEX",
+        "name": "MEXICO"
+      },
+      "name": "REGISTRO FEDERAL DE CONTRIBUYENTES - UNIQUE TAX CODE",
+      "type": "MX-RFC",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "FRA",
+        "name": "FRANCE"
+      },
+      "name": "SYSTEME D'IDENTIFICATION DU REPERTOIRE DES ENTERPRISES ET DE LEURS ESTABLISSEMENTS - INDENTIFICATION SYSTEM DIRECTORY OF COMPANIES AND THEIR INSTITUTIONS",
+      "type": "FR-SIRET",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "ZMB",
+        "name": "ZAMBIA"
+      },
+      "name": "COMPANY REGISTRATION NUMBER",
+      "type": "ZM-CRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "SVK",
+        "name": "SLOVAKIA"
+      },
+      "name": "TAX IDENTIFICATION NO (DANOVE IDENTIFIKACNE CISLO)",
+      "type": "SK-DIC",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "KGZ",
+        "name": "KYRGYZSTAN"
+      },
+      "name": "GENERAL IDENTIFICATION CODE OF ENTERPRISES, ORGANIZATIONS AND INDIVIDUAL ENTREPRENEURS",
+      "type": "KG-OKPO",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "MOZ",
+        "name": "MOZAMBIQUE"
+      },
+      "name": "NÚMERO ÚNICO DE ENTIDADE LEGAL - COMPANY REGISTRATION NUMBER",
+      "type": "MZ-NUEL",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "BEL",
+        "name": "BELGIUM"
+      },
+      "name": "VAT NUMBER",
+      "type": "BE-VAT",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "BOL",
+        "name": "BOLIVIA, PLURINATIONAL STATE OF"
+      },
+      "name": "NUMERO DE IDENTIFICACION TRIBUTARIA - TAX IDENTIFICATION NUMBER",
+      "type": "BO-NIT",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "UKR",
+        "name": "UKRAINE"
+      },
+      "name": "INDIVIDUALNYY NALOGOVYY NOMER - INDIVIDUAL TAX NUMBER",
+      "type": "UA-INN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "IRN",
+        "name": "IRAN, ISLAMIC REPUBLIC OF"
+      },
+      "name": "COMPANY NATIONAL IDENTIFICATION NUMBER",
+      "type": "IR-CNIDN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "ARE",
+        "name": "UNITED ARAB EMIRATES"
+      },
+      "name": "COMMERCIAL REGISTRY NUMBER",
+      "type": "AE-CRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "FRO",
+        "name": "FAROE ISLANDS"
+      },
+      "name": "REGISTRATION NO",
+      "type": "FO-RN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "MUS",
+        "name": "MAURITIUS"
+      },
+      "name": "BUSINESS REGISTRATION NO",
+      "type": "MU-BRNO",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "DZA",
+        "name": "ALGERIA"
+      },
+      "name": "TAX IDENTIFICATION NUMBER",
+      "type": "DZ-NIF",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "TGO",
+        "name": "TOGO"
+      },
+      "name": "COMPANY REGISTRATION NUMBER",
+      "type": "TG-CRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "MUS",
+        "name": "MAURITIUS"
+      },
+      "name": "Company No",
+      "type": "MU-CN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "USA",
+        "name": "UNITED STATES"
+      },
+      "name": "US-NPI - USA - National Provider Identifier",
+      "type": "US-NPI",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "PHL",
+        "name": "PHILIPPINES"
+      },
+      "name": "BUREAU OF INTERNAL REVENUE TAXPAYER IDENTIFICATION NUMBER",
+      "type": "PH-TIN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "QQQ",
+        "name": "INTERNATIONAL"
+      },
+      "name": "CARDANO ADDRESS",
+      "type": "INT-ADA",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "PAK",
+        "name": "PAKISTAN"
+      },
+      "name": "CORPORATE UNIVERSAL IDENTIFICATION NUMBER",
+      "type": "PK-CUIN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "QQQ",
+        "name": "INTERNATIONAL"
+      },
+      "name": "TICKER SYMBOL",
+      "type": "INT-TICKR",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "POL",
+        "name": "POLAND"
+      },
+      "name": "KRAJOWY REJESTR SADOWY - NATIONAL COURT REGISTER NUMBER",
+      "type": "PL-KRS",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "UKR",
+        "name": "UKRAINE"
+      },
+      "name": "EDINYY GOSUDARSTVENNYY REESTR PREDPRIYATIY I ORGANIZATSIY UKRAINY - STATE REGISTRATION NUMBER",
+      "type": "UA-EGR",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "KAZ",
+        "name": "KAZAKHSTAN"
+      },
+      "name": "REGISTRATSIONNYY NOMER NALOGOPLATELSHCHIKA - TAXPAYERS REGISTRATION NUMBER",
+      "type": "KZ-RNN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "IRL",
+        "name": "IRELAND"
+      },
+      "name": "COMPANY REGISTRATION NUMBER",
+      "type": "IE-CRO",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "COL",
+        "name": "COLOMBIA"
+      },
+      "name": "NUMERO DE IDENTIFICATION TRIBUTARIA - TAX IDENTIFICATION NUMBER",
+      "type": "CO-NIT",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "UKR",
+        "name": "UKRAINE"
+      },
+      "name": "MEZHFILIALNYY OBOROT - INTERBRANCH TURNOVER - UKRAINIAN BANK IDENTIFICATION CODE",
+      "type": "UA-MFO",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "ZZZ",
+        "name": "UNKNOWN"
+      },
+      "name": "UNKOWN IDENTIFIER",
+      "type": "UNK-UNKWN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "DOM",
+        "name": "DOMINICAN REPUBLIC"
+      },
+      "name": "REGISTRO NACIONAL DE CONTRIBUYENTES - NATIONAL REGISTRY FOR TAXPAYERS",
+      "type": "DO-RNC",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "CHN",
+        "name": "CHINA"
+      },
+      "name": "CHINA NATIONAL ADVANCED PAYMENT SYSTEM CODE",
+      "type": "CN-CNAPS",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "CYP",
+        "name": "CYPRUS"
+      },
+      "name": "ARITHOS FOROLOGIKOU MITRO-OU - TAX IDENTIFICATION NUMBER",
+      "type": "CY-AFM",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "LAO",
+        "name": "LAO PEOPLE'S DEMOCRATIC REPUBLIC"
+      },
+      "name": "ENTERPRISE REGISTRATION CERTIFICATE NUMBER",
+      "type": "LA-ERCN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "COG",
+        "name": "CONGO"
+      },
+      "name": "NUMERO D IDENTIFICATION UNIQUE / UNIQUE IDENTIFICATION NUMBER",
+      "type": "CG-NIU",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "HRV",
+        "name": "CROATIA"
+      },
+      "name": "OSOBNI IDENTIFIKACIJSKI BROJ - PERSONAL IDENTIFICATION NUMBER",
+      "type": "HR-OIB",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "QQQ",
+        "name": "INTERNATIONAL"
+      },
+      "name": "IMO REGISTRATION NUMBER",
+      "type": "INT-IMO",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "DEU",
+        "name": "GERMANY"
+      },
+      "name": "HANDELSREGISTERNUMMER - COMPANY REGISTRATION NUMBER",
+      "type": "DE-HR",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "ROU",
+        "name": "ROMANIA"
+      },
+      "name": "COD DE IDENTIFICARE FISCALA - TAX IDENTIFICATION CODE",
+      "type": "RO-CIF",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "CAN",
+        "name": "CANADA"
+      },
+      "name": "TAX IDENTIFICATION NUMBER",
+      "type": "CA-TIN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "QQQ",
+        "name": "INTERNATIONAL"
+      },
+      "name": "MONERO CRYPTOCURRENCY ADDRESS",
+      "type": "INT-XMR",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "QQQ",
+        "name": "INTERNATIONAL"
+      },
+      "name": "INTERNATIONAL IMO COMPANY REGISTRATION NUMBER",
+      "type": "INT-COIMO",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "KEN",
+        "name": "KENYA"
+      },
+      "name": "BUSINESS REGISTRATION NUMBER",
+      "type": "KE-BRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "CHE",
+        "name": "SWITZERLAND"
+      },
+      "name": "UNTERNEHMENS IDENTIFIKATIONSNUMMER - ENTERPRISE IDENTIFICATION NUMBER",
+      "type": "CH-UID",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "ZZZ",
+        "name": "UNKNOWN"
+      },
+      "name": "MARITIME MOBILE SERVICE IDENTITY",
+      "type": "UNK-MMSI",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "AFG",
+        "name": "AFGHANISTAN"
+      },
+      "name": "TAX IDENTIFICATION NUMBER",
+      "type": "AF-TIN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "DJI",
+        "name": "DJIBOUTI"
+      },
+      "name": "NUMERO DU REGISTRE DU COMMERCE - BUSINESS REGISTER NUMBER",
+      "type": "DJ-RC",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "PER",
+        "name": "PERU"
+      },
+      "name": "REGISTRO UNICO DE CONTRIBUYENTES - UNIQUE TAX CODE",
+      "type": "PE-RUC",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "NZL",
+        "name": "NEW ZEALAND"
+      },
+      "name": "BUSINESS NUMBER",
+      "type": "NZ-NZBN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "BLR",
+        "name": "BELARUS"
+      },
+      "name": "OBSHCHESTATISTICHESKIY KOD PREDPRIYATIY I ORGANIZATSIY - STATISTICS CODE FOR ENTERPRISES AND ORGANISATIONS",
+      "type": "BY-OKPO",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "JEY",
+        "name": "JERSEY"
+      },
+      "name": "COMPANY REGISTRATION NUMBER",
+      "type": "JE-CRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "TTO",
+        "name": "TRINIDAD AND TOBAGO"
+      },
+      "name": "COMPANY REGISTRATION NUMBER",
+      "type": "TT-CRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "QQQ",
+        "name": "INTERNATIONAL"
+      },
+      "name": "TRON ADDRESS",
+      "type": "INT-TRX",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "WSM",
+        "name": "SAMOA"
+      },
+      "name": "COMPANY NUMBER",
+      "type": "WS-CN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "PAN",
+        "name": "PANAMA"
+      },
+      "name": "REGISTRO UNICO DE CONTRIBUYENTES - TAX UNIQUE IDENTIFIER",
+      "type": "PA-RUC",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "MWI",
+        "name": "MALAWI"
+      },
+      "name": "COMPANY REGISTRATION NUMBER",
+      "type": "MW-CRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "SLE",
+        "name": "SIERRA LEONE"
+      },
+      "name": "COMPANY REGISTRATION NUMBER",
+      "type": "SL-CRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "TUN",
+        "name": "TUNISIA"
+      },
+      "name": "NO REGISTRE DU COMMERCE - REGISTRATION NUMBER",
+      "type": "TN-RC",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "ARE",
+        "name": "UNITED ARAB EMIRATES"
+      },
+      "name": "DUBAI CHAMBER OF COMMERCE MEMBERSHIP NUMBER",
+      "type": "AE-CCMN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "HUN",
+        "name": "HUNGARY"
+      },
+      "name": "CEGJEGYZEKSZAM - COMPANY REGISTRATION NUMBER",
+      "type": "HU-CG",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "BEN",
+        "name": "BENIN"
+      },
+      "name": "REGISTRATION NO",
+      "type": "BJ-RCCM",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "ROU",
+        "name": "ROMANIA"
+      },
+      "name": "NATIONAL TRADE REGISTER OFFICE - REGISTRY NUMBER",
+      "type": "RO-RN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "RWA",
+        "name": "RWANDA"
+      },
+      "name": "TAX IDENTIFICATION NUMBER",
+      "type": "RW-TIN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "SEN",
+        "name": "SENEGAL"
+      },
+      "name": "NATIONAL COMPANY AND ORGANISATION IDENTIFICATION NUMBER",
+      "type": "SN-NINEA",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "MNE",
+        "name": "MONTENEGRO"
+      },
+      "name": "PORESKI IDENTIFIKACIONI BROJ - TAX IDENTIFICATION NUMBER",
+      "type": "ME-PIB",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "QQQ",
+        "name": "INTERNATIONAL"
+      },
+      "name": "BITCOIN CASH",
+      "type": "INT-BCH",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "TUN",
+        "name": "TUNISIA"
+      },
+      "name": "IDENTIFIANT UNIQUE - TAX IDENTIFICATION NUMBER",
+      "type": "TN-IU",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "AZE",
+        "name": "AZERBAIJAN"
+      },
+      "name": "IDENTIFIKATSIONNYY NOMER NALOGOPLATELSHCHIKA - TAXPAYER'S IDENTIFICATION NUMBER",
+      "type": "AZ-INN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "NLD",
+        "name": "NETHERLANDS"
+      },
+      "name": "BONAIRE REGISTRATION NUMBER",
+      "type": "NL-BRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "KWT",
+        "name": "KUWAIT"
+      },
+      "name": "CHAMBER OF COMMERCE COMMERCIAL REGISTRATION NUMBER",
+      "type": "KW-CRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "MCO",
+        "name": "MONACO"
+      },
+      "name": "TAXE SUR LA VALEUR AJOUTEE - TAX NUMBER",
+      "type": "MC-TVA",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "QQQ",
+        "name": "INTERNATIONAL"
+      },
+      "name": "COMMITTEE ON UNIFORM SECURITIES IDENTIFICATION PROCEDURES",
+      "type": "INT-CUSIP",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "COG",
+        "name": "CONGO"
+      },
+      "name": "REGISTRE DU COMMERCE ET DU CREDIT MOBILIER / REGISTRATION NO",
+      "type": "CG-RCCM",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "QQQ",
+        "name": "INTERNATIONAL"
+      },
+      "name": "ZCASH CRYPTOCURRENCY ADDRESS",
+      "type": "INT-ZEC",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "GGY",
+        "name": "GUERNSEY"
+      },
+      "name": "COMPANY REGISTRATION NUMBER",
+      "type": "GG-CRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "MHL",
+        "name": "MARSHALL ISLANDS"
+      },
+      "name": "ENTITY NUMBER",
+      "type": "MH-ID",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "MEX",
+        "name": "MEXICO"
+      },
+      "name": "FOLIO MERCANTILE",
+      "type": "MX-FM",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "BIH",
+        "name": "BOSNIA AND HERZEGOVINA"
+      },
+      "name": "JEDINSTVENI IDENTIFIKACIONI BROJ - UNIQUE IDENTIFICATION NUMBER",
+      "type": "BA-JIB",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "HTI",
+        "name": "HAITI"
+      },
+      "name": "NO D'IDENTIFICATION FISCAL - TAX ID NO",
+      "type": "HT-NIF",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "SEN",
+        "name": "SENEGAL"
+      },
+      "name": "PERSONAL REGISTRATION NUMBERS",
+      "type": "SN-PRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "CYP",
+        "name": "CYPRUS"
+      },
+      "name": "COMPANY REGISTRATION NUMBER",
+      "type": "CY-CRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "SYC",
+        "name": "SEYCHELLES"
+      },
+      "name": "SEYCHELLES BUSINESS NUMBER",
+      "type": "SC-SBN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "MAC",
+        "name": "MACAO"
+      },
+      "name": "BUSINESS REGISTRATION NUMBER",
+      "type": "MO-BRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "FIN",
+        "name": "FINLAND"
+      },
+      "name": "Y-TUNNUS - BUSINESS ID NUMBER",
+      "type": "FI-YT",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "DEU",
+        "name": "GERMANY"
+      },
+      "name": "EINGETRAGENER VEREIN - ORGANISATIONS/ASSOCIATIONS REGISTRATION NUMBER",
+      "type": "DE-VR",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "GRC",
+        "name": "GREECE"
+      },
+      "name": "ARITHOS FOROLOGIKOU MITRO-OU - TAX IDENTIFICATION NUMBER",
+      "type": "GR-AFM",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "QQQ",
+        "name": "INTERNATIONAL"
+      },
+      "name": "DUN & BRADSTREET D-U-N-S NUMBER",
+      "type": "INT-DUNS",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "IND",
+        "name": "INDIA"
+      },
+      "name": "SECURITIES AND EXCHANGE BOARD OF INDIA",
+      "type": "IN-SEBI",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "BMU",
+        "name": "BERMUDA"
+      },
+      "name": "COMPANY REGISTRATION NUMBER",
+      "type": "BM-CRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "QQQ",
+        "name": "INTERNATIONAL"
+      },
+      "name": "LITECOIN ADDRESS",
+      "type": "INT-LTC",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "PAN",
+        "name": "PANAMA"
+      },
+      "name": "MERCANTILE REGISTRY DOCUMENT NUMBER",
+      "type": "PA-DOC",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "DNK",
+        "name": "DENMARK"
+      },
+      "name": "VALUE ADDED TAX",
+      "type": "DK-VAT",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "NLD",
+        "name": "NETHERLANDS"
+      },
+      "name": "COMMERCIAL REGISTRATION NUMBER",
+      "type": "NL-KVK",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "CAN",
+        "name": "CANADA"
+      },
+      "name": "BUSINESS NUMBER",
+      "type": "CA-BN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "LUX",
+        "name": "LUXEMBOURG"
+      },
+      "name": "REG DE COMMERCE ET DES SOCIETES - REGISTRATION NUMBER",
+      "type": "LU-RCS",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "BGD",
+        "name": "BANGLADESH"
+      },
+      "name": "COMPANY REGISTRATION NUMBER",
+      "type": "BD-CRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "HKG",
+        "name": "HONG KONG"
+      },
+      "name": "BUSINESS REGISTRATION NUMBER",
+      "type": "HK-BRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "ARE",
+        "name": "UNITED ARAB EMIRATES"
+      },
+      "name": "DUBAI FINANCIAL SERVICES AUTHORITY",
+      "type": "AE-DFSA",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "SAU",
+        "name": "SAUDI ARABIA"
+      },
+      "name": "COMMERCIAL REGISTRATION NUMBER",
+      "type": "SA-CRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "AUS",
+        "name": "AUSTRALIA"
+      },
+      "name": "AUSTRALIAN BUSINESS NUMBER",
+      "type": "AU-ABN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "PSE",
+        "name": "PALESTINIAN TERRITORY, OCCUPIED"
+      },
+      "name": "COMPANY REGISTER NUMBER",
+      "type": "PS-CRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "REU",
+        "name": "RÉUNION"
+      },
+      "name": "COMPANY REGISTRATION NO",
+      "type": "RE-RCS",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "DNK",
+        "name": "DENMARK"
+      },
+      "name": "COMPANY REGISTRATION NUMBER",
+      "type": "DK-CVR",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "AGO",
+        "name": "ANGOLA"
+      },
+      "name": "COMPANY REGISTRATION NUMBER",
+      "type": "AO-CRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "ESP",
+        "name": "SPAIN"
+      },
+      "name": "NUMERO DE IDENTIFICACION FISCAL - NATIONAL REGISTRY FOR TAXPAYERS",
+      "type": "ES-NIF",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "AFG",
+        "name": "AFGHANISTAN"
+      },
+      "name": "COMPANY REGISTRATION NUMBER",
+      "type": "AF-CRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "NZL",
+        "name": "NEW ZEALAND"
+      },
+      "name": "COMPANY NUMBER",
+      "type": "NZ-CN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "AGO",
+        "name": "ANGOLA"
+      },
+      "name": "NUMERO DE IDENTIFICACAO FISCAL - TAX IDENTIFICATION NUMBER",
+      "type": "AO-NIF",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "QQQ",
+        "name": "INTERNATIONAL"
+      },
+      "name": "UN/LOCODE",
+      "type": "INT-LOCOD",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "DZA",
+        "name": "ALGERIA"
+      },
+      "name": "NO REGISTRE DU COMMERCE / REGISTRATION NUMBER",
+      "type": "DZ-RC",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "RUS",
+        "name": "RUSSIAN FEDERATION"
+      },
+      "name": "IDENTIFIKATSIONNYY NOMER NALOGOPLATELSHCHIKA - TAXPAYER'S IDENTIFICATION NUMBER",
+      "type": "RU-INN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "RUS",
+        "name": "RUSSIAN FEDERATION"
+      },
+      "name": "RUSSIAN BANK IDENTIFICATION CODE",
+      "type": "RU-RUBIK",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "BDI",
+        "name": "BURUNDI"
+      },
+      "name": "TAX IDENTIFICATION NUMBER",
+      "type": "BI-NIF",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "BEN",
+        "name": "BENIN"
+      },
+      "name": "IDENTIFIANT FISCAL UNIQUE (UNIQUE TAX IDENTIFIER)",
+      "type": "BJ-IFU",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "THA",
+        "name": "THAILAND"
+      },
+      "name": "BUSINESS REGISTRATION NUMBER",
+      "type": "TH-BRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "ETH",
+        "name": "ETHIOPIA"
+      },
+      "name": "COMPANY REGISTRATION NUMBER",
+      "type": "ET-CRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "TWN",
+        "name": "TAIWAN, PROVINCE OF CHINA"
+      },
+      "name": "BUSINESS ADMINISTRATION NUMBER",
+      "type": "TW-BAN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "LVA",
+        "name": "LATVIA"
+      },
+      "name": "REGISTRACIJAS NUMURS - REGISTRATION NUMBER",
+      "type": "LV-RN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "PRY",
+        "name": "PARAGUAY"
+      },
+      "name": "REGISTRO UNICO DEL CONTRIBUYENTE - UNIQUE REGISTRY FOR TAXPAYERS",
+      "type": "PY-RUC",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "KHM",
+        "name": "CAMBODIA"
+      },
+      "name": "COMMERCIAL REGISTRATION CERTIFICATE NUMBER",
+      "type": "KH-CRCN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "CUW",
+        "name": "CURAÇAO"
+      },
+      "name": "REGISTRATION NO / DOSSIERNUMMER",
+      "type": "CW-RN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "BWA",
+        "name": "BOTSWANA"
+      },
+      "name": "COMPANY REGISTRATION NUMBER",
+      "type": "BW-CO",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "OMN",
+        "name": "OMAN"
+      },
+      "name": "COMMERCIAL REGISTRATION NUMBER",
+      "type": "OM-CRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "HND",
+        "name": "HONDURAS"
+      },
+      "name": "REGISTRO TRIBUTARIO NACIONAL - NATIONAL TAX REGISTER",
+      "type": "HN-RTN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "CYM",
+        "name": "CAYMAN ISLANDS"
+      },
+      "name": "COMPANY REGISTRATION NUMBER",
+      "type": "KY-CRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "CYP",
+        "name": "CYPRUS"
+      },
+      "name": "ARITHMOS ADIAS - LICENSE NUMBER",
+      "type": "CY-AA",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "KHM",
+        "name": "CAMBODIA"
+      },
+      "name": "TAX IDENTIFICATION NUMBER",
+      "type": "KH-TIN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "MMR",
+        "name": "MYANMAR"
+      },
+      "name": "COMPANY REGISTRATION NUMBER",
+      "type": "MM-CRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "PHL",
+        "name": "PHILIPPINES"
+      },
+      "name": "SECURITIES AND EXCHANGE COMMISSION REGISTRATION NUMBER",
+      "type": "PH-SEC",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "EST",
+        "name": "ESTONIA"
+      },
+      "name": "KAIBEMAKSUKOHUSTUSLASENA REGISTREERIMISE NUMBER - VAT NUMBER",
+      "type": "EE-KMKR",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "IDN",
+        "name": "INDONESIA"
+      },
+      "name": "TAXPAYER IDENTIFICATION NUMBER",
+      "type": "ID-NPWP",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "HUN",
+        "name": "HUNGARY"
+      },
+      "name": "ADOSZAM - TAX IDENTIFICATION NUMBER",
+      "type": "HU-ASZ",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "ARE",
+        "name": "UNITED ARAB EMIRATES"
+      },
+      "name": "NATIONAL IDENTIFICATION NUMBER",
+      "type": "AE-NID",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "ARG",
+        "name": "ARGENTINA"
+      },
+      "name": "CLAVE UNICA DE IDENTIFICACION TRIBUTARIA - UNIQUE TAX CODE IDENTIFICATION",
+      "type": "AR-CUIT",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "CHE",
+        "name": "SWITZERLAND"
+      },
+      "name": "REGISTER OF COMMERCE NUMBER",
+      "type": "CH-RC",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "PAK",
+        "name": "PAKISTAN"
+      },
+      "name": "NATIONAL TAX NUMBER",
+      "type": "PK-NTN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "QQQ",
+        "name": "INTERNATIONAL"
+      },
+      "name": "KOMODO ADDRESS",
+      "type": "INT-KMD",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "GRC",
+        "name": "GREECE"
+      },
+      "name": "REGISTER NUMBER",
+      "type": "GR-APMAE",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "BIH",
+        "name": "BOSNIA AND HERZEGOVINA"
+      },
+      "name": "MATICNI BROJ SUBJEKTA - COMPANY REGISTRATION NUMBER",
+      "type": "BA-MBS",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "HRV",
+        "name": "CROATIA"
+      },
+      "name": "MATICNI BROJ - TAX NUMBER",
+      "type": "HR-MB",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "NPL",
+        "name": "NEPAL"
+      },
+      "name": "PERMANENT ACCOUNT NUMBER",
+      "type": "NP-PAN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "UGA",
+        "name": "UGANDA"
+      },
+      "name": "COMPANY REGISTER NUMBER",
+      "type": "UG-CRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "MAR",
+        "name": "MOROCCO"
+      },
+      "name": "BUSINESS IDENTIFICATION NO",
+      "type": "MA-ICE",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "ZAF",
+        "name": "SOUTH AFRICA"
+      },
+      "name": "COMPANY TAX NUMBER",
+      "type": "ZA-CTN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "CRI",
+        "name": "COSTA RICA"
+      },
+      "name": "CEDULA JURIDICA - TAX IDENTIFICATION",
+      "type": "CR-CJ",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "BLZ",
+        "name": "BELIZE"
+      },
+      "name": "COMPANY REGISTRATION NUMBER",
+      "type": "BZ-CRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "MLT",
+        "name": "MALTA"
+      },
+      "name": "COMPANY NUMBER - ID NUMBER",
+      "type": "MT-CN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "ITA",
+        "name": "ITALY"
+      },
+      "name": "CODICE FISCALE - TAX NUMBER",
+      "type": "IT-CF",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "QQQ",
+        "name": "INTERNATIONAL"
+      },
+      "name": "DASH CRYPTOCURRENCY ADDRESS",
+      "type": "INT-DASH",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "SVN",
+        "name": "SLOVENIA"
+      },
+      "name": "TAX NUMBER",
+      "type": "SI-TIN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "KGZ",
+        "name": "KYRGYZSTAN"
+      },
+      "name": "IDENTIFIKATSIONNYY NALOGOVYY NOMER - IDENTIFICATION TAX NUMBER",
+      "type": "KG-INN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "LBN",
+        "name": "LEBANON"
+      },
+      "name": "COMMERCIAL REGISTRY NUMBER",
+      "type": "LB-CRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "QQQ",
+        "name": "INTERNATIONAL"
+      },
+      "name": "ETHEREUM ADDRESS",
+      "type": "INT-ETH",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "EST",
+        "name": "ESTONIA"
+      },
+      "name": "OPPEASUTUSE REGISTRIKOOD - EDUCATIONAL INSTITUTIONS REGISTRY CODE",
+      "type": "EE-ORK",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "MAR",
+        "name": "MOROCCO"
+      },
+      "name": "TAX IDENTIFICATION NO",
+      "type": "MA-IF",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "KGZ",
+        "name": "KYRGYZSTAN"
+      },
+      "name": "STATE REGISTRATION NUMBER",
+      "type": "KG-RN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "USA",
+        "name": "UNITED STATES"
+      },
+      "name": "US SYSTEM FOR AWARD MANAGEMENT ID",
+      "type": "US-SAM",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "GRC",
+        "name": "GREECE"
+      },
+      "name": "GENERAL ELECTRONIC COMMERCIAL REGISTRY - GENIKO EMBORIKO MITROO",
+      "type": "GR-GEMH",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "KOR",
+        "name": "KOREA, REPUBLIC OF"
+      },
+      "name": "BUSINESS REGISTRATION NUMBER",
+      "type": "KR-BRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "MOZ",
+        "name": "MOZAMBIQUE"
+      },
+      "name": "COMPANY TAX NUMBER",
+      "type": "MZ-NUIT",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "BLR",
+        "name": "BELARUS"
+      },
+      "name": "UCHETNYY NOMER PLATELSHCHIKA - TAXPAYER'S REGISTRATION NUMBER",
+      "type": "BY-UNP",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "NOR",
+        "name": "NORWAY"
+      },
+      "name": "ORGANISATIONSNUMMER - COMPANY REGISTRATION NUMBER",
+      "type": "NO-ORGNR",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "VGB",
+        "name": "VIRGIN ISLANDS, BRITISH"
+      },
+      "name": "COMPANY REGISTRATION NUMBER",
+      "type": "VG-CRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "UZB",
+        "name": "UZBEKISTAN"
+      },
+      "name": "STATISTICS CODE FOR ENTERPRISES AND ORGANISATIONS",
+      "type": "UZ-OKPO",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "QQQ",
+        "name": "INTERNATIONAL"
+      },
+      "name": "INTERNATIONAL AIR TRANSPORT ASSOCIATION",
+      "type": "INT-IATA",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "BGR",
+        "name": "BULGARIA"
+      },
+      "name": "EDINEN IDENTIFIKATSIONEN KOD - UNIFIED IDENTIFICATION CODE",
+      "type": "BG-EIK",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "POL",
+        "name": "POLAND"
+      },
+      "name": "NUMER IDENTYFIKACJI PODATKOWEJ - TAX ID NUMBER",
+      "type": "PL-NIP",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "SWE",
+        "name": "SWEDEN"
+      },
+      "name": "TAX IDENTIFICATION NUMBER",
+      "type": "SE-VAT",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "SRB",
+        "name": "SERBIA"
+      },
+      "name": "PORESKI IDENTIFIKACIONI BROJ - TAX IDENTIFICATION NUMBER",
+      "type": "RS-PIB",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "COL",
+        "name": "COLOMBIA"
+      },
+      "name": "MATRICULA MERCANTIL",
+      "type": "CO-MM",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "QAT",
+        "name": "QATAR"
+      },
+      "name": "COMMERCIAL REGISTRATION NUMBER",
+      "type": "QA-CRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "ZAF",
+        "name": "SOUTH AFRICA"
+      },
+      "name": "COMPANY REGISTRATION NUMBER",
+      "type": "ZA-CRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "QQQ",
+        "name": "INTERNATIONAL"
+      },
+      "name": "SWIFT BIC CODE",
+      "type": "INT-BIC",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "IND",
+        "name": "INDIA"
+      },
+      "name": "COMPANY IDENTIFICATION NUMBER",
+      "type": "IN-CIN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "GBR",
+        "name": "UNITED KINGDOM"
+      },
+      "name": "COMPANIES HOUSE - COMPANY NUMBER",
+      "type": "GB-CH",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "VNM",
+        "name": "VIET NAM"
+      },
+      "name": "ENTERPRISE CODE NUMBER",
+      "type": "VN-ECN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "ISL",
+        "name": "ICELAND"
+      },
+      "name": "KENNITALA - IDENTIFICATION NUMBER",
+      "type": "IS-KT",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "GHA",
+        "name": "GHANA"
+      },
+      "name": "COMPANY REGISTRATION NUMBER",
+      "type": "GH-CRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "TUR",
+        "name": "TURKEY"
+      },
+      "name": "COMPANY REGISTRATION NUMBER",
+      "type": "TR-CRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "GNQ",
+        "name": "EQUATORIAL GUINEA"
+      },
+      "name": "COMPANY REGISTRATION NUMBER",
+      "type": "GQ-CRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "NLD",
+        "name": "NETHERLANDS"
+      },
+      "name": "VAT NUMBER",
+      "type": "NL-VAT",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "MAR",
+        "name": "MOROCCO"
+      },
+      "name": "BUSINESS REGISTRATION NO",
+      "type": "MA-RC",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "SMR",
+        "name": "SAN MARINO"
+      },
+      "name": "CODICE OP EC - VAT NO",
+      "type": "SM-COE",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "BHS",
+        "name": "BAHAMAS"
+      },
+      "name": "TAX IDENTIFICATION NUMBER",
+      "type": "BS-TIN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "QQQ",
+        "name": "INTERNATIONAL"
+      },
+      "name": "TETHER ADDRESS",
+      "type": "INT-USDT",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "TJK",
+        "name": "TAJIKISTAN"
+      },
+      "name": "IDENTIFIKATSIONNYY NOMER NALOGOPLATELSHCHIKA - TAXPAYER'S IDENTIFICATION NUMBER",
+      "type": "TJ-INN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "NPL",
+        "name": "NEPAL"
+      },
+      "name": "COMPANY REGISTRATION NUMBER",
+      "type": "NP-CRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "GRD",
+        "name": "GRENADA"
+      },
+      "name": "COMPANY REGISTRATION NUMBER",
+      "type": "GD-CRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "GRC",
+        "name": "GREECE"
+      },
+      "name": "ARITHMOS ADIAS - LICENSE NUMBER",
+      "type": "GR-AA",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "USA",
+        "name": "UNITED STATES"
+      },
+      "name": "US-UPIN - USA - Unique Physician Identification Number",
+      "type": "US-UPIN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "ISR",
+        "name": "ISRAEL"
+      },
+      "name": "COMMERCIAL REGISTRY NUMBER",
+      "type": "IL-CRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "NZL",
+        "name": "NEW ZEALAND"
+      },
+      "name": "FINANCIAL SERVICE PROVIDERS REGISTER",
+      "type": "NZ-FSPR",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "VEN",
+        "name": "VENEZUELA, BOLIVARIAN REPUBLIC OF"
+      },
+      "name": "REGISTRO DE INFORMACION FISCAL - TAX INFORMATION REGISTER",
+      "type": "VE-RIF",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "RUS",
+        "name": "RUSSIAN FEDERATION"
+      },
+      "name": "GOVERNMENT GAZETTE NUMBER",
+      "type": "RU-GGN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "BRA",
+        "name": "BRAZIL"
+      },
+      "name": "CADASTRO NACIONAL DE PESSOAS JURIDICAS - COMPANY REGISTRATION NUMBER",
+      "type": "BR-CNPJ",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "RUS",
+        "name": "RUSSIAN FEDERATION"
+      },
+      "name": "OBSHCHEROSSIYSKIY KLASSIFIKATOR PREDPRIYATIY I ORGANIZATSIY - RUSSIAN NATIONAL CLASSIFICATORY OF ENTERPRISES AND ORGANIZATIONS",
+      "type": "RU-OKPO",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "MDA",
+        "name": "MOLDOVA, REPUBLIC OF"
+      },
+      "name": "NUMAR DE IDENTIFICARE DE STAT - STATE IDENTIFICATION NUMBER",
+      "type": "MD-IDNO",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "PAK",
+        "name": "PAKISTAN"
+      },
+      "name": "SALES TAX REGISTRATION NUMBER",
+      "type": "PK-STRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "CHL",
+        "name": "CHILE"
+      },
+      "name": "ROL UNICO TRIBUTARIO - UNIQUE TAX CODE IDENTIFICATION",
+      "type": "CL-RUT",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "CAN",
+        "name": "CANADA"
+      },
+      "name": "CORPORATION NUMBER",
+      "type": "CA-CN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "CHN",
+        "name": "CHINA"
+      },
+      "name": "INDUSTRIAL AND COMMERCIAL REGISTRATION NUMBER",
+      "type": "CN-ICRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "TKM",
+        "name": "TURKMENISTAN"
+      },
+      "name": "INDIVIDUALNYY NALOGOVYY NOMER - INDIVIDUAL TAX NUMBER",
+      "type": "TM-INN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "HKG",
+        "name": "HONG KONG"
+      },
+      "name": "COMPANY REGISTRATION NUMBER",
+      "type": "HK-CRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "DEU",
+        "name": "GERMANY"
+      },
+      "name": "UMSATZSTEUER - VAT NUMBER",
+      "type": "DE-UST",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "ABW",
+        "name": "ARUBA"
+      },
+      "name": "COMPANY REGISTRATION NO",
+      "type": "AW-KVKNO",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "GRL",
+        "name": "GREENLAND"
+      },
+      "name": "REGISTRATION NUMBER",
+      "type": "GL-REG",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "AUS",
+        "name": "AUSTRALIA"
+      },
+      "name": "COMPANY NUMBER",
+      "type": "AU-ACN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "CZE",
+        "name": "CZECH REPUBLIC"
+      },
+      "name": "TAX IDENTIFICATION NUMBER - DANOVE IDENTIFIKACNI CISLO",
+      "type": "CZ-DIC",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "GMB",
+        "name": "GAMBIA"
+      },
+      "name": "COMPANY REGISTRATION NUMBER",
+      "type": "GM-CRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "NIC",
+        "name": "NICARAGUA"
+      },
+      "name": "REGISTRO UNICO DE CONTRIBUYENTES - TAX ID NUMBER",
+      "type": "NI-RUC",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "TZA",
+        "name": "TANZANIA, UNITED REPUBLIC OF"
+      },
+      "name": "COMPANY REGISTRATION NUMBER",
+      "type": "TZ-CRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "NAM",
+        "name": "NAMIBIA"
+      },
+      "name": "COMPANY REGISTRATION NUMBER",
+      "type": "NA-CRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "BEL",
+        "name": "BELGIUM"
+      },
+      "name": "ONDERNEMINGSNUMMER - COMPANY NUMBER",
+      "type": "BE-ON",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "KEN",
+        "name": "KENYA"
+      },
+      "name": "PERSONAL IDENTIFICATION NUMBER",
+      "type": "KE-PIN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "SAU",
+        "name": "SAUDI ARABIA"
+      },
+      "name": "VALUE ADDED TAX",
+      "type": "SA-VAT",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "SRB",
+        "name": "SERBIA"
+      },
+      "name": "MATICNI BROJ - COMPANY REGISTRATION NUMBER",
+      "type": "RS-MB",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "TON",
+        "name": "TONGA"
+      },
+      "name": "COMPANY NUMBER",
+      "type": "TO-CN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "AFG",
+        "name": "AFGHANISTAN"
+      },
+      "name": "COMPANY LICENSE NUMBER",
+      "type": "AF-CLN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "TCD",
+        "name": "CHAD"
+      },
+      "name": "NUMERO D'IDENTIFICATION FISCAL UNIQUE - UNIQUE TAX IDENTIFICATION NUMBER",
+      "type": "TD-NIFU",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "RUS",
+        "name": "RUSSIAN FEDERATION"
+      },
+      "name": "MAIN STATE REGISTRATION NUMBER",
+      "type": "RU-OGRN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "CAF",
+        "name": "CENTRAL AFRICAN REPUBLIC"
+      },
+      "name": "BANK TAX NUMBER",
+      "type": "CF-BTN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "AFG",
+        "name": "AFGHANISTAN"
+      },
+      "name": "MONEY SERVICE PROVIDER LICENSE NUMBER",
+      "type": "AF-MSPN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "CYP",
+        "name": "CYPRUS"
+      },
+      "name": "INTERNAL IDENTIFICATION NUMBER",
+      "type": "CY-IID",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "ALB",
+        "name": "ALBANIA"
+      },
+      "name": "NUMRI IDENTIFIKUES I PERSONIT TE TATUESHEM - TAX ID NUMBER",
+      "type": "AL-NIPT",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "MDV",
+        "name": "MALDIVES"
+      },
+      "name": "TAXPAYER'S IDENTIFICATION NUMBER",
+      "type": "MV-TIN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "CHN",
+        "name": "CHINA"
+      },
+      "name": "CORPORATE UNIFORM SOCIAL CREDIT CODE",
+      "type": "CN-USCC",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "AUT",
+        "name": "AUSTRIA"
+      },
+      "name": "UMSATZSTEUER IDENTIFIKATIONSNUMMER - VAT NUMBER",
+      "type": "AT-UID",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "MLI",
+        "name": "MALI"
+      },
+      "name": "NUMERO DU REGISTRE DU COMMERCE - BUSINESS REGISTER NUMBER",
+      "type": "ML-RC",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "MHL",
+        "name": "MARSHALL ISLANDS"
+      },
+      "name": "ENTITY NUMBER",
+      "type": "MH-EN",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    },
+    {
+      "country": {
+        "code": "REU",
+        "name": "RÉUNION"
+      },
+      "name": "SIRET NO",
+      "type": "RE-SIRET",
+      "entityTypes": [
+        "ORGANISATION"
+      ]
+    }
+  ]
+}
