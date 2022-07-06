@@ -1,16 +1,15 @@
 {
-  "identityDocumentLocationTypes": [
-    {
-      "country": {
-        "code": "ZZZ",
-        "name": "UNKNOWN"
-      },
-      "name": "COMPANY REGISTRATION NUMBER",
-      "type": "UNK-CRN",
-      "entityTypes": [
-        "ORGANISATION"
-      ]
+  "identityDocumentLocationTypes": [{
+    "country": {
+      "code": "ZZZ",
+      "name": "UNKNOWN"
     },
+    "name": "COMPANY REGISTRATION NUMBER",
+    "type": "UNK-CRN",
+    "entityTypes": [
+      "ORGANISATION"
+    ]
+  },
     {
       "country": {
         "code": "QQQ",
